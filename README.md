@@ -8,5 +8,7 @@ A configuração recomendada (100) me deu uma taxa de 1000 envios em 4 segundos.
 Dentro do codigo do script você podera configurar:
 
 url = " " # ALVO
+
 num_requisicoes =  # MAXIMO QUE SERÁ ENVIADO
+
 pool_size = 100 # ENVIOS ( recomendado - 100 )
